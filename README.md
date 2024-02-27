@@ -1,6 +1,7 @@
 # Weather Dashboard
 
-[image goes here]
+![_rough2_index](https://github.com/imooon/utor-assignment6-Weather-Dashboard/assets/110244046/26cfc21a-c46c-490f-9b51-77e5465d5a70)
+
 
 
 ## Description
@@ -18,14 +19,12 @@
 
 ## URL of the GitHub repository
 
-
+https://github.com/imooon/utor-assignment6-Weather-Dashboard
 
 ## URL of the deployed application
 
-
+https://imooon.github.io/utor-assignment6-Weather-Dashboard/
 
 ## License 
-
-
 
 #### Please refer to the license in the repository.
